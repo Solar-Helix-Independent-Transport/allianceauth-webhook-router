@@ -1,4 +1,4 @@
-from pinger import __version__
+from rerouter import __version__
 import os
 from setuptools import find_packages, setup
 install_requires = [
